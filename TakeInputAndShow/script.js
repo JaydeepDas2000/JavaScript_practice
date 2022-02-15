@@ -5,5 +5,6 @@ input_btn.addEventListener('click',showName);
 
 function showName(){
     let name = prompt('Enter Name : ');
+    console.log(name)
     show_name.textContent = name;
 }
