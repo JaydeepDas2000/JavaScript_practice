@@ -10,3 +10,4 @@ console.log(pattern.test(value)); // it will help to say that pattern is present
 console.log(value.replace(pattern, 'just')); // it will help to replace word from another word
 
 console.log(value.match(pattern)); // it will help to display description
+
